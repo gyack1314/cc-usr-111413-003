@@ -1,0 +1,691 @@
+{
+  "frame": [
+    {
+      "household": "h0",
+      "town": "t0",
+      "psu": "p0",
+      "stratum": "s0",
+      "members": 1,
+      "floor_area": 40
+    },
+    {
+      "household": "h1",
+      "town": "t0",
+      "psu": "p0",
+      "stratum": "s0",
+      "members": 2,
+      "floor_area": 50
+    },
+    {
+      "household": "h2",
+      "town": "t0",
+      "psu": "p0",
+      "stratum": "s0",
+      "members": 3,
+      "floor_area": 60
+    },
+    {
+      "household": "h3",
+      "town": "t0",
+      "psu": "p0",
+      "stratum": "s0",
+      "members": 4,
+      "floor_area": 70
+    },
+    {
+      "household": "h4",
+      "town": "t0",
+      "psu": "p1",
+      "stratum": "s0",
+      "members": 5,
+      "floor_area": 80
+    },
+    {
+      "household": "h5",
+      "town": "t0",
+      "psu": "p1",
+      "stratum": "s0",
+      "members": 1,
+      "floor_area": 90
+    },
+    {
+      "household": "h6",
+      "town": "t0",
+      "psu": "p1",
+      "stratum": "s0",
+      "members": 2,
+      "floor_area": 100
+    },
+    {
+      "household": "h7",
+      "town": "t0",
+      "psu": "p1",
+      "stratum": "s0",
+      "members": 3,
+      "floor_area": 40
+    },
+    {
+      "household": "h8",
+      "town": "t0",
+      "psu": "p2",
+      "stratum": "s0",
+      "members": 4,
+      "floor_area": 50
+    },
+    {
+      "household": "h9",
+      "town": "t0",
+      "psu": "p2",
+      "stratum": "s0",
+      "members": 5,
+      "floor_area": 60
+    },
+    {
+      "household": "h10",
+      "town": "t0",
+      "psu": "p2",
+      "stratum": "s0",
+      "members": 1,
+      "floor_area": 70
+    },
+    {
+      "household": "h11",
+      "town": "t0",
+      "psu": "p2",
+      "stratum": "s0",
+      "members": 2,
+      "floor_area": 80
+    },
+    {
+      "household": "h12",
+      "town": "t1",
+      "psu": "p3",
+      "stratum": "s0",
+      "members": 3,
+      "floor_area": 90
+    },
+    {
+      "household": "h13",
+      "town": "t1",
+      "psu": "p3",
+      "stratum": "s0",
+      "members": 4,
+      "floor_area": 100
+    },
+    {
+      "household": "h14",
+      "town": "t1",
+      "psu": "p3",
+      "stratum": "s0",
+      "members": 5,
+      "floor_area": 40
+    },
+    {
+      "household": "h15",
+      "town": "t1",
+      "psu": "p3",
+      "stratum": "s0",
+      "members": 1,
+      "floor_area": 50
+    },
+    {
+      "household": "h16",
+      "town": "t1",
+      "psu": "p4",
+      "stratum": "s0",
+      "members": 2,
+      "floor_area": 60
+    },
+    {
+      "household": "h17",
+      "town": "t1",
+      "psu": "p4",
+      "stratum": "s0",
+      "members": 3,
+      "floor_area": 70
+    },
+    {
+      "household": "h18",
+      "town": "t1",
+      "psu": "p4",
+      "stratum": "s0",
+      "members": 4,
+      "floor_area": 80
+    },
+    {
+      "household": "h19",
+      "town": "t1",
+      "psu": "p4",
+      "stratum": "s0",
+      "members": 5,
+      "floor_area": 90
+    },
+    {
+      "household": "h20",
+      "town": "t1",
+      "psu": "p5",
+      "stratum": "s0",
+      "members": 1,
+      "floor_area": 100
+    },
+    {
+      "household": "h21",
+      "town": "t1",
+      "psu": "p5",
+      "stratum": "s0",
+      "members": 2,
+      "floor_area": 40
+    },
+    {
+      "household": "h22",
+      "town": "t1",
+      "psu": "p5",
+      "stratum": "s0",
+      "members": 3,
+      "floor_area": 50
+    },
+    {
+      "household": "h23",
+      "town": "t1",
+      "psu": "p5",
+      "stratum": "s0",
+      "members": 4,
+      "floor_area": 60
+    },
+    {
+      "household": "h24",
+      "town": "t2",
+      "psu": "p6",
+      "stratum": "s1",
+      "members": 5,
+      "floor_area": 70
+    },
+    {
+      "household": "h25",
+      "town": "t2",
+      "psu": "p6",
+      "stratum": "s1",
+      "members": 1,
+      "floor_area": 80
+    },
+    {
+      "household": "h26",
+      "town": "t2",
+      "psu": "p6",
+      "stratum": "s1",
+      "members": 2,
+      "floor_area": 90
+    },
+    {
+      "household": "h27",
+      "town": "t2",
+      "psu": "p6",
+      "stratum": "s1",
+      "members": 3,
+      "floor_area": 100
+    },
+    {
+      "household": "h28",
+      "town": "t2",
+      "psu": "p7",
+      "stratum": "s1",
+      "members": 4,
+      "floor_area": 40
+    },
+    {
+      "household": "h29",
+      "town": "t2",
+      "psu": "p7",
+      "stratum": "s1",
+      "members": 5,
+      "floor_area": 50
+    },
+    {
+      "household": "h30",
+      "town": "t2",
+      "psu": "p7",
+      "stratum": "s1",
+      "members": 1,
+      "floor_area": 60
+    },
+    {
+      "household": "h31",
+      "town": "t2",
+      "psu": "p7",
+      "stratum": "s1",
+      "members": 2,
+      "floor_area": 70
+    },
+    {
+      "household": "h32",
+      "town": "t2",
+      "psu": "p8",
+      "stratum": "s1",
+      "members": 3,
+      "floor_area": 80
+    },
+    {
+      "household": "h33",
+      "town": "t2",
+      "psu": "p8",
+      "stratum": "s1",
+      "members": 4,
+      "floor_area": 90
+    },
+    {
+      "household": "h34",
+      "town": "t2",
+      "psu": "p8",
+      "stratum": "s1",
+      "members": 5,
+      "floor_area": 100
+    },
+    {
+      "household": "h35",
+      "town": "t2",
+      "psu": "p8",
+      "stratum": "s1",
+      "members": 1,
+      "floor_area": 40
+    },
+    {
+      "household": "h36",
+      "town": "t3",
+      "psu": "p9",
+      "stratum": "s1",
+      "members": 2,
+      "floor_area": 50
+    },
+    {
+      "household": "h37",
+      "town": "t3",
+      "psu": "p9",
+      "stratum": "s1",
+      "members": 3,
+      "floor_area": 60
+    },
+    {
+      "household": "h38",
+      "town": "t3",
+      "psu": "p9",
+      "stratum": "s1",
+      "members": 4,
+      "floor_area": 70
+    },
+    {
+      "household": "h39",
+      "town": "t3",
+      "psu": "p9",
+      "stratum": "s1",
+      "members": 5,
+      "floor_area": 80
+    },
+    {
+      "household": "h40",
+      "town": "t3",
+      "psu": "p10",
+      "stratum": "s1",
+      "members": 1,
+      "floor_area": 90
+    },
+    {
+      "household": "h41",
+      "town": "t3",
+      "psu": "p10",
+      "stratum": "s1",
+      "members": 2,
+      "floor_area": 100
+    },
+    {
+      "household": "h42",
+      "town": "t3",
+      "psu": "p10",
+      "stratum": "s1",
+      "members": 3,
+      "floor_area": 40
+    },
+    {
+      "household": "h43",
+      "town": "t3",
+      "psu": "p10",
+      "stratum": "s1",
+      "members": 4,
+      "floor_area": 50
+    },
+    {
+      "household": "h44",
+      "town": "t3",
+      "psu": "p11",
+      "stratum": "s1",
+      "members": 5,
+      "floor_area": 60
+    },
+    {
+      "household": "h45",
+      "town": "t3",
+      "psu": "p11",
+      "stratum": "s1",
+      "members": 1,
+      "floor_area": 70
+    },
+    {
+      "household": "h46",
+      "town": "t3",
+      "psu": "p11",
+      "stratum": "s1",
+      "members": 2,
+      "floor_area": 80
+    },
+    {
+      "household": "h47",
+      "town": "t3",
+      "psu": "p11",
+      "stratum": "s1",
+      "members": 3,
+      "floor_area": 90
+    },
+    {
+      "household": "h48",
+      "town": "t4",
+      "psu": "p12",
+      "stratum": "s2",
+      "members": 4,
+      "floor_area": 100
+    },
+    {
+      "household": "h49",
+      "town": "t4",
+      "psu": "p12",
+      "stratum": "s2",
+      "members": 5,
+      "floor_area": 40
+    },
+    {
+      "household": "h50",
+      "town": "t4",
+      "psu": "p12",
+      "stratum": "s2",
+      "members": 1,
+      "floor_area": 50
+    },
+    {
+      "household": "h51",
+      "town": "t4",
+      "psu": "p12",
+      "stratum": "s2",
+      "members": 2,
+      "floor_area": 60
+    },
+    {
+      "household": "h52",
+      "town": "t4",
+      "psu": "p13",
+      "stratum": "s2",
+      "members": 3,
+      "floor_area": 70
+    },
+    {
+      "household": "h53",
+      "town": "t4",
+      "psu": "p13",
+      "stratum": "s2",
+      "members": 4,
+      "floor_area": 80
+    },
+    {
+      "household": "h54",
+      "town": "t4",
+      "psu": "p13",
+      "stratum": "s2",
+      "members": 5,
+      "floor_area": 90
+    },
+    {
+      "household": "h55",
+      "town": "t4",
+      "psu": "p13",
+      "stratum": "s2",
+      "members": 1,
+      "floor_area": 100
+    },
+    {
+      "household": "h56",
+      "town": "t4",
+      "psu": "p14",
+      "stratum": "s2",
+      "members": 2,
+      "floor_area": 40
+    },
+    {
+      "household": "h57",
+      "town": "t4",
+      "psu": "p14",
+      "stratum": "s2",
+      "members": 3,
+      "floor_area": 50
+    },
+    {
+      "household": "h58",
+      "town": "t4",
+      "psu": "p14",
+      "stratum": "s2",
+      "members": 4,
+      "floor_area": 60
+    },
+    {
+      "household": "h59",
+      "town": "t4",
+      "psu": "p14",
+      "stratum": "s2",
+      "members": 5,
+      "floor_area": 70
+    },
+    {
+      "household": "h60",
+      "town": "t5",
+      "psu": "p15",
+      "stratum": "s2",
+      "members": 1,
+      "floor_area": 80
+    },
+    {
+      "household": "h61",
+      "town": "t5",
+      "psu": "p15",
+      "stratum": "s2",
+      "members": 2,
+      "floor_area": 90
+    },
+    {
+      "household": "h62",
+      "town": "t5",
+      "psu": "p15",
+      "stratum": "s2",
+      "members": 3,
+      "floor_area": 100
+    },
+    {
+      "household": "h63",
+      "town": "t5",
+      "psu": "p15",
+      "stratum": "s2",
+      "members": 4,
+      "floor_area": 40
+    },
+    {
+      "household": "h64",
+      "town": "t5",
+      "psu": "p16",
+      "stratum": "s2",
+      "members": 5,
+      "floor_area": 50
+    },
+    {
+      "household": "h65",
+      "town": "t5",
+      "psu": "p16",
+      "stratum": "s2",
+      "members": 1,
+      "floor_area": 60
+    },
+    {
+      "household": "h66",
+      "town": "t5",
+      "psu": "p16",
+      "stratum": "s2",
+      "members": 2,
+      "floor_area": 70
+    },
+    {
+      "household": "h67",
+      "town": "t5",
+      "psu": "p16",
+      "stratum": "s2",
+      "members": 3,
+      "floor_area": 80
+    },
+    {
+      "household": "h68",
+      "town": "t5",
+      "psu": "p17",
+      "stratum": "s2",
+      "members": 4,
+      "floor_area": 90
+    },
+    {
+      "household": "h69",
+      "town": "t5",
+      "psu": "p17",
+      "stratum": "s2",
+      "members": 5,
+      "floor_area": 100
+    },
+    {
+      "household": "h70",
+      "town": "t5",
+      "psu": "p17",
+      "stratum": "s2",
+      "members": 1,
+      "floor_area": 40
+    },
+    {
+      "household": "h71",
+      "town": "t5",
+      "psu": "p17",
+      "stratum": "s2",
+      "members": 2,
+      "floor_area": 50
+    }
+  ],
+  "sample": [
+    {
+      "household": "h0",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 3.6
+    },
+    {
+      "household": "h1",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 5.1
+    },
+    {
+      "household": "h8",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 7.7
+    },
+    {
+      "household": "h9",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 8.6
+    },
+    {
+      "household": "h16",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 5.2
+    },
+    {
+      "household": "h17",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 6.7
+    },
+    {
+      "household": "h24",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 8.7
+    },
+    {
+      "household": "h25",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 4.2
+    },
+    {
+      "household": "h32",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 6.8
+    },
+    {
+      "household": "h33",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 7.7
+    },
+    {
+      "household": "h40",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 4.3
+    },
+    {
+      "household": "h41",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 5.8
+    },
+    {
+      "household": "h48",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 7.8
+    },
+    {
+      "household": "h49",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 8.6
+    },
+    {
+      "household": "h56",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 5.2
+    },
+    {
+      "household": "h57",
+      "pi_psu": 0.5,
+      "pi_within": 0.5,
+      "water": 6.1
+    }
+  ],
+  "city_reference": {
+    "towns": [
+      "t0",
+      "t1",
+      "t2",
+      "t3",
+      "t4",
+      "t5"
+    ],
+    "total": 540,
+    "variance": 225,
+    "independent_of_sample": true
+  }
+}
